@@ -8,6 +8,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 </p>
 
 
+
 ## 🛠 Technical Skills  
 - **Artificial Intelligence & Machine Learning:** TensorFlow, LSTM, XGBoost, Deep Learning  
 - **Data Science & Analytics:** Python, SQL, Grafana, Predictive Analytics  
@@ -15,10 +16,12 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - **Cybersecurity & Networking:** Kali Linux, Wireshark, VPN, Network Security  
 - **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems  
 
+
 ## 🎓 Education  
 - **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  
 - **M.Eng in Electrical Engineering** | Universiti Tenaga Nasional  
 - **B.Eng in Electrical & Electronics Engineering** | Universiti Tenaga Nasional  
+
 
 ## 💼 Work Experience  
 ### **Senior Lecturer @ Universiti Tenaga Nasional (2009 - Present)**  
