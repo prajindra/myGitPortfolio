@@ -2,14 +2,10 @@
 
 #### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
 
-<br>
-
 ## 🚀 About Me  
 <p align="justify">
 I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> specializing in <strong>AI-driven analytics, IoT solutions, smart metering, and predictive energy systems</strong>. With over <strong>15 years of experience</strong>, I have collaborated extensively with <strong>Tenaga Nasional Berhad (TNB)</strong> on projects involving <strong>non-technical loss detection, smart grid optimization, and energy fraud prevention</strong>. My work bridges <strong>academia and industry</strong>, focusing on AI applications that enhance <strong>grid reliability, energy security, and sustainability</strong>.
 </p>
-
-<br>
 
 ## 🛠 Technical Skills  
 <p align="justify">
@@ -20,16 +16,12 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - <strong>Renewable Energy & Smart Grids:</strong> AI-based energy forecasting, AMI Analytics, Power Systems  
 </p>
 
-<br>
-
 ## 🎓 Education  
 <p align="justify">
 - <strong>Ph.D. in Electrical Engineering</strong> | Universiti Tenaga Nasional  
 - <strong>M.Eng in Electrical Engineering</strong> | Universiti Tenaga Nasional  
 - <strong>B.Eng in Electrical & Electronics Engineering</strong> | Universiti Tenaga Nasional  
 </p>
-
-<br>
 
 ## 💼 Work Experience  
 ### **Senior Lecturer @ Universiti Tenaga Nasional (2009 - Present)**  
@@ -39,15 +31,11 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - Conducted <strong>technical training & workshops</strong> on AI, IoT, and predictive energy analytics.  
 </p>
 
-<br>
-
 ### **Core Researcher @ Institute of Sustainable Energy (HICoE) (2025 - 2027)**  
 <p align="justify">
 - Developed <strong>Perovskite solar cells</strong> with 15% efficiency in collaboration with Ritsumeikan University, Japan.  
 - Led <strong>solar-powered IoT sensor deployment</strong> for shrimp farming in Sabah, Malaysia.  
 </p>
-
-<br>
 
 ### **Consultancy & Industry Projects**  
 <p align="justify">
@@ -57,8 +45,6 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - <strong>Fault Classification for TNB Switchgear:</strong> Implemented <strong>ultrasound-based AI analytics</strong> for predictive maintenance.  
 </p>
 
-<br>
-
 ## 📂 Projects  
 ### 🔹 AI-Based Renewable Energy Forecasting  
 <p align="justify">
@@ -66,23 +52,17 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - Integrated <strong>big data analytics</strong> to optimize <strong>large-scale solar (LSS) farm performance</strong>.  
 </p>
 
-<br>
-
 ### 🔹 AI-Powered Smart Grid Analytics  
 <p align="justify">
 - Created <strong>AMI (Advanced Metering Infrastructure) analytics tools</strong> for real-time <strong>grid failure prediction</strong>.  
 - Designed <strong>worst-performing feeder (WPF) analytics</strong>, reducing downtime and optimizing power distribution.  
 </p>
 
-<br>
-
 ### 🔹 IoT & Smart Metering Solutions  
 <p align="justify">
 - Built a <strong>data analytics platform</strong> for predictive maintenance in <strong>TNB smart metering systems</strong>.  
 - Developed an <strong>AI-powered electricity theft detection system</strong>, increasing fraud case identification from <strong>60% to 85%</strong>.  
 </p>
-
-<br>
 
 ## 🎤 Talks & Workshops  
 <p align="justify">
@@ -91,16 +71,12 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - <strong>Machine Learning for Non-Technical Loss Detection</strong> - IEEE Power & Energy Society  
 </p>
 
-<br>
-
 ## 🏆 Publications & Research  
 <p align="justify">
 - Published <strong>39 peer-reviewed papers</strong> in <strong>AI, Smart Grids, IoT, and Power Systems</strong>.  
 - <strong>Scopus h-index: 6</strong> with <strong>119 citations</strong> and <strong>13 ISI-indexed papers</strong>.  
 - <strong>Secured RM 2.2 million in research funding</strong> for AI-driven energy analytics projects.  
 </p>
-
-<br>
 
 ## 🏅 Certifications & Professional Memberships  
 <p align="justify">
@@ -111,12 +87,9 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - <strong>Industrial IoT (IIoT) Developer</strong>  
 </p>
 
-<br>
-
 ## 📢 Connect with Me  
 <p align="justify">
 🔗 <a href="https://prajindra.github.io/myprofile/">GitHub Portfolio</a>  
 🔗 <a href="https://www.linkedin.com/in/prajindra/">LinkedIn</a>  
 📺 <a href="https://www.youtube.com/@prajindrasankar5879">YouTube Channel</a>  
 </p>
-
