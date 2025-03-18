@@ -1,5 +1,3 @@
-# Ir. Dr. Prajindra Sankar Krishnan  
-
 #### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
 
 <br>
