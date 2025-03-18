@@ -2,76 +2,121 @@
 
 #### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
 
+<br>
+
 ## 🚀 About Me  
 <p align="justify">
 I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> specializing in <strong>AI-driven analytics, IoT solutions, smart metering, and predictive energy systems</strong>. With over <strong>15 years of experience</strong>, I have collaborated extensively with <strong>Tenaga Nasional Berhad (TNB)</strong> on projects involving <strong>non-technical loss detection, smart grid optimization, and energy fraud prevention</strong>. My work bridges <strong>academia and industry</strong>, focusing on AI applications that enhance <strong>grid reliability, energy security, and sustainability</strong>.
 </p>
 
-
+<br>
 
 ## 🛠 Technical Skills  
-- **Artificial Intelligence & Machine Learning:** TensorFlow, LSTM, XGBoost, Deep Learning  
-- **Data Science & Analytics:** Python, SQL, Grafana, Predictive Analytics  
-- **IoT & Embedded Systems:** Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
-- **Cybersecurity & Networking:** Kali Linux, Wireshark, VPN, Network Security  
-- **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems  
+<p align="justify">
+- <strong>Artificial Intelligence & Machine Learning:</strong> TensorFlow, LSTM, XGBoost, Deep Learning  
+- <strong>Data Science & Analytics:</strong> Python, SQL, Grafana, Predictive Analytics  
+- <strong>IoT & Embedded Systems:</strong> Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
+- <strong>Cybersecurity & Networking:</strong> Kali Linux, Wireshark, VPN, Network Security  
+- <strong>Renewable Energy & Smart Grids:</strong> AI-based energy forecasting, AMI Analytics, Power Systems  
+</p>
 
+<br>
 
 ## 🎓 Education  
-- **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  
-- **M.Eng in Electrical Engineering** | Universiti Tenaga Nasional  
-- **B.Eng in Electrical & Electronics Engineering** | Universiti Tenaga Nasional  
+<p align="justify">
+- <strong>Ph.D. in Electrical Engineering</strong> | Universiti Tenaga Nasional  
+- <strong>M.Eng in Electrical Engineering</strong> | Universiti Tenaga Nasional  
+- <strong>B.Eng in Electrical & Electronics Engineering</strong> | Universiti Tenaga Nasional  
+</p>
 
+<br>
 
 ## 💼 Work Experience  
 ### **Senior Lecturer @ Universiti Tenaga Nasional (2009 - Present)**  
-- Developed AI-powered **non-technical loss detection systems** for TNB, reducing fraud detection time.  
-- Designed IoT-based **solar-powered monitoring systems** for renewable energy optimization.  
-- Conducted **technical training & workshops** on AI, IoT, and predictive energy analytics.  
+<p align="justify">
+- Developed AI-powered <strong>non-technical loss detection systems</strong> for TNB, reducing fraud detection time.  
+- Designed IoT-based <strong>solar-powered monitoring systems</strong> for renewable energy optimization.  
+- Conducted <strong>technical training & workshops</strong> on AI, IoT, and predictive energy analytics.  
+</p>
+
+<br>
 
 ### **Core Researcher @ Institute of Sustainable Energy (HICoE) (2025 - 2027)**  
-- Developed **Perovskite solar cells** with 15% efficiency in collaboration with Ritsumeikan University, Japan.  
-- Led **solar-powered IoT sensor deployment** for shrimp farming in Sabah, Malaysia.  
+<p align="justify">
+- Developed <strong>Perovskite solar cells</strong> with 15% efficiency in collaboration with Ritsumeikan University, Japan.  
+- Led <strong>solar-powered IoT sensor deployment</strong> for shrimp farming in Sabah, Malaysia.  
+</p>
+
+<br>
 
 ### **Consultancy & Industry Projects**  
-- **Smart Billing Data Analytics for TNB:** AI-driven fraud detection system, reducing non-technical losses by **10%**.  
-- **Low Intelligent Network System (LINES) for Predictive Maintenance:** Detecting electricity fraud across **9 million smart meters**.  
-- **Predictive Emission Monitoring System (PEMS):** Achieved **95% accuracy** in emission forecasting using AI.  
-- **Fault Classification for TNB Switchgear:** Implemented **ultrasound-based AI analytics** for predictive maintenance.  
+<p align="justify">
+- <strong>Smart Billing Data Analytics for TNB:</strong> AI-driven fraud detection system, reducing non-technical losses by <strong>10%</strong>.  
+- <strong>Low Intelligent Network System (LINES) for Predictive Maintenance:</strong> Detecting electricity fraud across <strong>9 million smart meters</strong>.  
+- <strong>Predictive Emission Monitoring System (PEMS):</strong> Achieved <strong>95% accuracy</strong> in emission forecasting using AI.  
+- <strong>Fault Classification for TNB Switchgear:</strong> Implemented <strong>ultrasound-based AI analytics</strong> for predictive maintenance.  
+</p>
+
+<br>
 
 ## 📂 Projects  
 ### 🔹 AI-Based Renewable Energy Forecasting  
-- Developed **machine learning models** for **solar energy yield prediction**, improving accuracy by **20%**.  
-- Integrated **big data analytics** to optimize **large-scale solar (LSS) farm performance**.  
+<p align="justify">
+- Developed <strong>machine learning models</strong> for <strong>solar energy yield prediction</strong>, improving accuracy by <strong>20%</strong>.  
+- Integrated <strong>big data analytics</strong> to optimize <strong>large-scale solar (LSS) farm performance</strong>.  
+</p>
+
+<br>
 
 ### 🔹 AI-Powered Smart Grid Analytics  
-- Created **AMI (Advanced Metering Infrastructure) analytics tools** for real-time **grid failure prediction**.  
-- Designed **worst-performing feeder (WPF) analytics**, reducing downtime and optimizing power distribution.  
+<p align="justify">
+- Created <strong>AMI (Advanced Metering Infrastructure) analytics tools</strong> for real-time <strong>grid failure prediction</strong>.  
+- Designed <strong>worst-performing feeder (WPF) analytics</strong>, reducing downtime and optimizing power distribution.  
+</p>
+
+<br>
 
 ### 🔹 IoT & Smart Metering Solutions  
-- Built a **data analytics platform** for predictive maintenance in **TNB smart metering systems**.  
-- Developed an **AI-powered electricity theft detection system**, increasing fraud case identification from **60% to 85%**.  
+<p align="justify">
+- Built a <strong>data analytics platform</strong> for predictive maintenance in <strong>TNB smart metering systems</strong>.  
+- Developed an <strong>AI-powered electricity theft detection system</strong>, increasing fraud case identification from <strong>60% to 85%</strong>.  
+</p>
+
+<br>
 
 ## 🎤 Talks & Workshops  
-- **AI in Energy Analytics** - UNITEN Industry Forum  
-- **IoT for Smart Grid & Predictive Maintenance** - TNB Training Academy  
-- **Machine Learning for Non-Technical Loss Detection** - IEEE Power & Energy Society  
+<p align="justify">
+- <strong>AI in Energy Analytics</strong> - UNITEN Industry Forum  
+- <strong>IoT for Smart Grid & Predictive Maintenance</strong> - TNB Training Academy  
+- <strong>Machine Learning for Non-Technical Loss Detection</strong> - IEEE Power & Energy Society  
+</p>
+
+<br>
 
 ## 🏆 Publications & Research  
-- Published **39 peer-reviewed papers** in **AI, Smart Grids, IoT, and Power Systems**.  
-- **Scopus h-index: 6** with **119 citations** and **13 ISI-indexed papers**.  
-- **Secured RM 2.2 million in research funding** for AI-driven energy analytics projects.  
+<p align="justify">
+- Published <strong>39 peer-reviewed papers</strong> in <strong>AI, Smart Grids, IoT, and Power Systems</strong>.  
+- <strong>Scopus h-index: 6</strong> with <strong>119 citations</strong> and <strong>13 ISI-indexed papers</strong>.  
+- <strong>Secured RM 2.2 million in research funding</strong> for AI-driven energy analytics projects.  
+</p>
+
+<br>
 
 ## 🏅 Certifications & Professional Memberships  
-- **Professional Engineer (Ir.) - Board of Engineers Malaysia (BEM)**  
-- **Corporate Member - Institute of Engineers Malaysia (IEM)**  
-- **Certified Python Programmer for Data Science**  
-- **Certified Cybersecurity Specialist**  
-- **Industrial IoT (IIoT) Developer**  
+<p align="justify">
+- <strong>Professional Engineer (Ir.) - Board of Engineers Malaysia (BEM)</strong>  
+- <strong>Corporate Member - Institute of Engineers Malaysia (IEM)</strong>  
+- <strong>Certified Python Programmer for Data Science</strong>  
+- <strong>Certified Cybersecurity Specialist</strong>  
+- <strong>Industrial IoT (IIoT) Developer</strong>  
+</p>
+
+<br>
 
 ## 📢 Connect with Me  
-🔗 [GitHub Portfolio](https://prajindra.github.io/myprofile/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/prajindra/)  
-📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)  
+<p align="justify">
+🔗 <a href="https://prajindra.github.io/myprofile/">GitHub Portfolio</a>  
+🔗 <a href="https://www.linkedin.com/in/prajindra/">LinkedIn</a>  
+📺 <a href="https://www.youtube.com/@prajindrasankar5879">YouTube Channel</a>  
+</p>
 
----
