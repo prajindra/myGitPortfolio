@@ -1,4 +1,4 @@
-#### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
+## Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
 
 <br>
 
