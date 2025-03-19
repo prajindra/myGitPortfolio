@@ -18,8 +18,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - **IoT & Embedded Systems:** Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
 - **Cybersecurity & Networking:** Kali Linux, Wireshark, VPN, Network Security  
 - **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems  
-![](/assets/img/images.png)
-<br>
+
 
 ## 🎓 Education  
 <p align="justify">
@@ -50,7 +49,10 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - Developed **Perovskite solar cells** with 15% efficiency in collaboration with Ritsumeikan University, Japan.  
 - Led **solar-powered IoT sensor deployment** for shrimp farming in Sabah, Malaysia.  
 
-
+<p align="center">
+  <iframe width="560" height="315" src="[https://www.youtube.com/embed/YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=SOr5_bDiLEM)" 
+  frameborder="0" allowfullscreen></iframe>
+</p>
 <br>
 
 ### **Consultancy & Industry Projects**  
