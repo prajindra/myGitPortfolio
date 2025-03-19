@@ -31,7 +31,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 
 <br>
 
-## 💼 Work Experience  
+## 💼 Work Experience
 ### **Senior Lecturer @ Universiti Tenaga Nasional (2009 - Present)**  
 <p align="justify">
 </p>
